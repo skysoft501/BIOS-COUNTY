@@ -313,48 +313,6 @@ menu
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 $host.ui.rawui.windowtitle="© BIOS-COUNTY"
 add-type -assemblyname system.speech
 $speaker=new-object system.speech.synthesis.speechsynthesizer

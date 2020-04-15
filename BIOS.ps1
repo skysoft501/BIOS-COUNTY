@@ -59,6 +59,11 @@ function intro() {
 
 $path = $env:temp
 if ((test-path -Path $path\pass.txt) -ne 'True') {
+start-sleep -seconds 4
+write-host Game Record Not Found. Creating New Game Data. Loading...  -foregroundcolor cyan
+start-sleep -seconds 5
+write-host Game Data Created Successfully.. -foregroundcolor yellow
+start-sleep -seconds 3
 newgame
 }
 

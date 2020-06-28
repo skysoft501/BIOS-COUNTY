@@ -8,5 +8,7 @@
 
 * Authentication into BIOS
 
+* Ability to reset game and scores (with authentication)
+
 * Game User Profile 
 

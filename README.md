@@ -1,4 +1,4 @@
-# *Attrubutes
+# *Attrubutes*
 
 * Checkpoint/savegame
 

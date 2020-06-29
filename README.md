@@ -10,7 +10,9 @@
 
 * Ability to reset game and scores (with authentication)
 
-* Game User Profile 
+* Game Player Profile 
+
+* Quick Escape key 'x+Enter' so your boss don't catch your indulgence 😁"
 
 * Quite addictive, particularly at a work place.
 

@@ -12,7 +12,7 @@
 
 * Game Player Profile 
 
-* Quick Escape key 'x+Enter' so your boss don't catch your indulgence 😁"
+* Quick Escape key 'x+Enter' so your boss don't sneak into your indulgence 😁"
 
 * Quite addictive, particularly at a work place.
 

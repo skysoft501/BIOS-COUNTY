@@ -1,4 +1,4 @@
-# *Attributes*..
+# *Attributes*
 
 * Checkpoint/savegame
 
